@@ -40,7 +40,7 @@ Python · TensorFlow · PyTorch · C/C++ · Flutter · Django · React · Git
 ---
 
 ### 📫 Contact Me
-[LinkedIn](https://linkedin.com/in/tonprofil) · [Email](mailto:abacucagbedje@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abacuc-agbedje-236133389) · [Email](mailto:abacucagbedje@gmail.com)
 
 ---
 
