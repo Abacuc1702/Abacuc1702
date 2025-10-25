@@ -35,7 +35,7 @@ Python · TensorFlow · PyTorch · C/C++ · Flutter · Django · React · Git
 ---
 
 ### 🔭 Current Projects
-- Emotion Voice
+- [Emotion Voice](https://www.github.com/Abacuc1702/emotion-voice)
 
 ---
 
