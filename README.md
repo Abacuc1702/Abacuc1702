@@ -35,6 +35,7 @@ Python · TensorFlow · PyTorch · C/C++ · Flutter · Django · React · Git
 ---
 
 ### 🔭 Current Projects
+- [Ml From Scratch](https://www.github.com/Abacuc1702/from_scratch)
 - [Emotion Voice](https://www.github.com/Abacuc1702/emotion_voice)
 
 ---
