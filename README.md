@@ -15,22 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓 Computer Science – Methods Applied to Business Management student  
-🤖 Passionate about **Embedded Artificial Intelligence**  
-💡 Learning to integrate AI models into **resource-constrained systems**
+🤖 Passionate about **Artificial Intelligence**  
 
 ---
 
 ### 🧠 Areas of Interest
 - Machine Learning & Deep Learning  
-- Embedded AI / TinyML  
-- Edge AI Deployment  
+- Research 
 - Computer Vision & Audio Processing  
 - Software Development (Python, JAVA, Flutter, Django)
 
 ---
 
 ### 🛠️ Tech Stack
-Python · TensorFlow · PyTorch · C/C++ · Flutter · Django · React · Git
+Python · TensorFlow · PyTorch · Flutter · Django · React · Git
 
 ---
 
