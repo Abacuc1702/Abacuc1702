@@ -1,48 +1,37 @@
 ## Hello World! 👋 I'm Abacuc
 
-<!--
-**Abacuc1702/Abacuc1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🎓 Computer Science – Methods Applied to Business Management student  
 🤖 Passionate about **Artificial Intelligence**  
 
 ---
 
-### 🧠 Areas of Interest
-- Machine Learning & Deep Learning  
+### Areas of Interest
+- Machine Learning & Deep Learning
+- Data
+- Problem Solving
 - Research 
 - Computer Vision & Audio Processing  
 - Software Development (Python, JAVA, Flutter, Django)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 Python · TensorFlow · PyTorch · Flutter · Django · React · Git
 
 ---
 
-### 🔭 Current Projects
+### Current Projects
 - [Moteur de recommandation](https://github.com/Abacuc1702/moteur-recommandation)
 - [Ml From Scratch](https://www.github.com/Abacuc1702/from_scratch)
 - [Emotion Voice](https://www.github.com/Abacuc1702/emotion_voice)
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 [LinkedIn](https://www.linkedin.com/in/abacuc-agbedje-236133389) · [Email](mailto:abacucagbedje@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact
-I love **transforming ideas into practical solutions**, learning new technologies, and experimenting with AI on small devices.
+I love **transforming ideas into practical solutions**, learning new technologies, mine data.
