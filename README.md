@@ -1,37 +1,38 @@
-## Hello World! 👋 I'm Abacuc
+# Salut, moi c'est Abacuc ! 👋
 
+### 🚀 Futur expert en IA & Data Science
+Étudiant passionné par la transformation de la donnée en décisions stratégiques. Je jongle entre le **Deep Learning**, la **Computer Vision** et le développement d'interfaces modernes avec **Next.js**. 
 
-🎓 Computer Science – Methods Applied to Business Management student  
-🤖 Passionate about **Artificial Intelligence**  
-
----
-
-### Areas of Interest
-- Machine Learning & Deep Learning
-- Data
-- Problem Solving
-- Research 
-- Computer Vision & Audio Processing  
-- Software Development (Python, JAVA, Flutter, Django)
+Mon objectif ? Utiliser l'IA pour résoudre des problèmes concrets et optimiser les flux de demain.
 
 ---
 
-### Tech Stack
-Python · TensorFlow · PyTorch · Flutter · Django · React · Git
+### 🛠 Mon Arsenal Technique
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **IA & Data** | Python, TensorFlow, Scikit-Learn, LLMs, Computer Vision |
+| **Dev** | Développement web et mobile |
+| **Outils** | Git, Docker, SQL, VS Code |
 
 ---
 
-### Current Projects
-- [Moteur de recommandation](https://github.com/Abacuc1702/moteur-recommandation)
-- [Ml From Scratch](https://www.github.com/Abacuc1702/from_scratch)
-- [Emotion Voice](https://www.github.com/Abacuc1702/emotion_voice)
+### 🧬 Projets Phares
+
+*   **[Projet IA/LLM]** : *Analyse de sentiment.*
+*   **[Projet Vision]** : Détection d'objets et classification d'images.
 
 ---
 
-### Contact Me
-[LinkedIn](https://www.linkedin.com/in/abacuc-agbedje-236133389) · [Email](mailto:abacucagbedje@gmail.com)
+### 🌱 En ce moment...
+*   🔭 Je travaille actuellement sur **une IA pour rendre les lois accessibles à tout citoyen**.
+*   📚 Je me perfectionne sur l'architecture des **Large Language Models (LLMs)**.
 
 ---
 
-### ⚡ Fun Fact
-I love **transforming ideas into practical solutions**, learning new technologies, mine data.
+### 📫 Me contacter
+*   **LinkedIn** : [Ton Profil LinkedIn](https://www.linkedin.com/in/abacuc-agbedje-236133389/)
+*   **Email** : [abacuc.agbedje@email.com](mailto:ossohou-abacuc.agbedje@etudiant.univ-rennes.fr)
+
+---
+*« Transformer la complexité algorithmique en simplicité utilisateur. »*
