@@ -19,6 +19,7 @@ Mon objectif ? Utiliser l'IA pour résoudre des problèmes concrets et optimiser
 
 ### 🧬 Projets Phares
 
+*   **[Prédiction de Churn](https://github.com/Abacuc1702/churn_prediction)** : identifier les clients susceptibles de quitter un service afin de mettre en place des actions de rétention ciblées
 *   **[Projet IA/LLM]** : *Analyse de sentiment.*
 *   **[Projet Vision]** : Détection d'objets et classification d'images.
 
@@ -31,8 +32,8 @@ Mon objectif ? Utiliser l'IA pour résoudre des problèmes concrets et optimiser
 ---
 
 ### 📫 Me contacter
-*   **LinkedIn** : [Ton Profil LinkedIn](https://www.linkedin.com/in/abacuc-agbedje-236133389/)
-*   **Email** : [abacuc.agbedje@email.com](mailto:ossohou-abacuc.agbedje@etudiant.univ-rennes.fr)
+*   **LinkedIn** : [Abacuc AGBEDJE](https://www.linkedin.com/in/abacuc-agbedje-236133389/)
+*   **Email** : [oabacuc.agbedje@gmail.com](mailto:ossohou-abacuc.agbedje@etudiant.univ-rennes.fr)
 
 ---
 *« Transformer la complexité algorithmique en simplicité utilisateur. »*
