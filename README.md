@@ -20,7 +20,7 @@ Mon objectif ? Utiliser l'IA pour résoudre des problèmes concrets et optimiser
 ### 🧬 Projets Phares
 
 *   **[Prédiction de Churn](https://github.com/Abacuc1702/churn_prediction)** : identifier les clients susceptibles de quitter un service afin de mettre en place des actions de rétention ciblées
-*   **[Projet IA/LLM]** : *Analyse de sentiment.*
+*   **[CathéIA](https://github.com/Abacuc1702/catheIA)** : *Chatbot RAG sur le catéchisme de l'Église catholique*
 *   **[Projet Vision]** : Détection d'objets et classification d'images.
 
 ---
